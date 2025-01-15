@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 ¡Hola, soy Abián!
+🌟 Desarrollador Web | Estudiante de DAM | Apasionado por la programación
+Soy un desarrollador web con experiencia en la creación de más de 10 sitios web y actualmente estudiante del ciclo superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el Centro Internacional Politécnico. Descubrí mi pasión por la programación a través de un bootcamp y llevo varios años profundizando en el desarrollo web por mi cuenta.
 
-<!--
-**abian22/abian22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Mi Stack Principal
+Frontend: React, JavaScript (ES6+), HTML5, CSS3
+Backend: Node.js, Express
+Bases de datos: MongoDB, MySQL
+Herramientas adicionales: Git, GitHub, Postman
+🌱 Aprendiendo actualmente
+Desarrollo en Java como parte del ciclo de DAM
+Internacionalización de aplicaciones web usando herramientas como Astro y i18next
+Mejores prácticas en desarrollo Full Stack
+💻 Proyectos destacados
+Apetit Comité: Mi primer proyecto FullStack, busca tener tu menú semanal para organizar tus comidas a lo largo de la semana 
+FeedFood: Una aplicación tipo TikTok centrada en la alimentación, que busca fomentar hábitos saludables.
+Porfolio: Donde podrás ver un poco más sobre mi y los proyectos que he realizado
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Objetivos personales
+Seguir mejorando como desarrollador Full Stack
+Colaborar en proyectos innovadores en equipo
+Aportar soluciones creativas y prácticas que impacten positivamente en los usuarios
+📫 Contáctame
+LinkedIn: [Tu perfil de LinkedIn]
+Email: [Tu correo electrónico]
+Proyectos: [Lista de repositorios en GitHub]
