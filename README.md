@@ -50,4 +50,3 @@ Soy un desarrollador web con experiencia en la creación de diversas web y actua
 ### 📫 **Contáctame**  
 - **LinkedIn:** [https://www.linkedin.com/in/abiancamejo/]  
 - **Email:** [abian.camejo@gmail.com]  
-- **Proyectos:** [Lista de repositorios en GitHub]  
