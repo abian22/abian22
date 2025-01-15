@@ -26,6 +26,7 @@ Soy un desarrollador web con experiencia en la creación de diversas web y actua
 <div style="display: flex; justify-content: center; margin-left: 20px; margin-bottom: 30px;">
   <img src="https://github.com/abian22/abian22/blob/main/apetit.PNG" width="550" />
 </div>
+<br>
 
 2. **[FeedFood](https://github.com/abian22/Frontend-React-Project-Apetit-Comite)**: Una aplicación tipo TikTok centrada en la alimentación, que busca fomentar hábitos saludables.  
 3. **[Portafolio](https://github.com/abian22/porfolio.dev)**: Donde podrás ver un poco más sobre mí y los proyectos que he realizado.
