@@ -23,18 +23,18 @@ Soy un desarrollador web con experiencia en la creación de diversas web y actua
 ### 💻 **Proyectos destacados**  
 
 <p> 1. <a href="https://github.com/abian22/Frontend-React-Project-Apetit-Comite"><strong>Apetit Comité</strong></a>: Mi primer proyecto FullStack, busca tener tu menú semanal para organizar tus comidas a lo largo de la semana.</p>
-<a href="https://appetitcomite.netlify.app" target="_blank">
+<a href="https://appetitcomite.netlify.app">
   <img src="https://github.com/abian22/abian22/blob/main/apetit.PNG" width="450" />
   </a>
 <br>
 <p>2. <a href="https://github.com/abian22/FedFodFront"><strong>FeedFood </strong> </a>: Una aplicación tipo TikTok centrada en la alimentación, que busca fomentar hábitos saludables.</p>
 
-   <a href="https://fedfod.netlify.app/" target="_blank">
+   <a href="https://fedfod.netlify.app/">
      <img src="https://github.com/abian22/abian22/blob/main/fedfodfront.PNG" width="450" />
    </a>
 <br>
 <p>3. <a href="https://github.com/abian22/porfolio.dev"><strong>Portafolio</strong></a>: Donde podrás ver un poco más sobre mí y los proyectos que he realizado.</p>
-<a href="https://porfolioabian.netlify.app/" target="_blank">
+<a href="https://porfolioabian.netlify.app/">
    <img src="https://github.com/abian22/abian22/blob/main/Porfolio.PNG" width="450" />
   </a>
 <br>
